@@ -1,0 +1,11 @@
+# This project uses only Python standard libraries
+# No external dependencies required
+
+# Required standard library modules:
+# - os
+# - re
+# - json
+# - tkinter
+# - threading
+# - datetime
+# - hashlib
